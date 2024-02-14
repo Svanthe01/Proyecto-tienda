@@ -1,0 +1,13 @@
+Collar 126910 2 250 10
+Cinturon 29 3 200 10
+Mechero 269 4 350 10
+Chocolates 123467 5 30 10
+Toalla 5910 6 50 5
+Pulsera 1237 7 20 10
+Perfume 1245678910 8 450 7
+Camisa 23478910 9 270 20
+Sueter 123467910 10 340 7
+Biberon 5 11 200 4
+Corbata 1479 12 150 30
+Guantes 4910 13 70 6
+Pantunflas 1267 1 200 5
